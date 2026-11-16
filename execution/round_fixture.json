@@ -1,0 +1,10 @@
+{
+  "prefix": "TRI",
+  "flags": {
+    "TRI_FIXTURE": "1",
+    "TRI_HOUR": "10",
+    "TRI_MINUTE": "8",
+    "TRI_SECOND": "30",
+    "TRI_BATTERY": "82"
+  }
+}

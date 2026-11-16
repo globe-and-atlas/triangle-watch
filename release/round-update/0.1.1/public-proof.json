@@ -1,0 +1,23 @@
+{
+  "name": "Triangle",
+  "repo": "triangle-watch",
+  "version": "0.1.1",
+  "url": "https://apps.repebble.com/a78ddf0105ec4f4598c3fedc",
+  "pbw_exact": true,
+  "native_round_pixels_exact": true,
+  "matched_round_urls": [
+    "https://assets.repebble.com/screenshots/a78ddf0105ec4f4598c3fedc/chalk/f9513d26-43b8-4cd6-900e-15d8ca703834.png",
+    "https://assets.repebble.com/screenshots/a78ddf0105ec4f4598c3fedc/chalk/1b68afe6-809b-4355-9e7a-ccc79fdfc18f.png",
+    "https://assets.repebble.com/screenshots/a78ddf0105ec4f4598c3fedc/gabbro/bbb8081e-8631-4386-8aa1-37e8c1cb0c3f.png",
+    "https://assets.repebble.com/screenshots/a78ddf0105ec4f4598c3fedc/gabbro/fb2cd88b-b094-4c8e-98b1-f3d6db606f22.png"
+  ],
+  "existing_gallery_preserved": false,
+  "animated_preview_first": true,
+  "screenshots": [
+    "https://assets.repebble.com/screenshots/a78ddf0105ec4f4598c3fedc/emery/89aa7dca-bfdc-4b4c-8475-35c4db1fe240.gif",
+    "https://assets.repebble.com/screenshots/a78ddf0105ec4f4598c3fedc/emery/77fc0755-eee0-4611-b940-0c8f7cbc0a91.png",
+    "https://assets.repebble.com/screenshots/a78ddf0105ec4f4598c3fedc/emery/7e145d39-6209-4ac4-9625-f97ef7d9ef1d.png",
+    "https://assets.repebble.com/screenshots/a78ddf0105ec4f4598c3fedc/chalk/f9513d26-43b8-4cd6-900e-15d8ca703834.png",
+    "https://assets.repebble.com/screenshots/a78ddf0105ec4f4598c3fedc/gabbro/bbb8081e-8631-4386-8aa1-37e8c1cb0c3f.png"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "repo": "triangle-watch",
+  "name": "Triangle",
+  "version": "0.1.1",
+  "uuid": "3552217e-0dfd-4ae9-9367-1753fa5f1a6f",
+  "artifact": "/Users/danielbally/Git/triangle-watch/dist/Triangle-0.1.1.pbw",
+  "sha256": "3ab07225b0fff74451a5d676eea628f79cdcda5dbca474a8bb28a33f82c6cf1a",
+  "platform_binary_sha256": {
+    "emery": "12c325a88577aa5c7038a6b573f8cbec8b63a4b0de32d5065985371efba003fd",
+    "chalk": "ad83faf1c3f6a107ac945ea43ba2af6afaa58fd05bb8301f2d34e2b5753af15e",
+    "gabbro": "e11a947126f519f161058a61c37ad2bbbbf486e6b2c177f42452d720a3542977"
+  },
+  "app_id": null,
+  "screenshots": [
+    "/Users/danielbally/Git/triangle-watch/media/store/emery_01_palettes.gif",
+    "/Users/danielbally/Git/triangle-watch/media/store/emery_02_palette.png",
+    "/Users/danielbally/Git/triangle-watch/media/store/emery_03_palette.png",
+    "/Users/danielbally/Git/triangle-watch/media/store/round-update/chalk_01_round.png",
+    "/Users/danielbally/Git/triangle-watch/media/store/round-update/chalk_02_round.png",
+    "/Users/danielbally/Git/triangle-watch/media/store/round-update/gabbro_01_round.png",
+    "/Users/danielbally/Git/triangle-watch/media/store/round-update/gabbro_02_round.png"
+  ],
+  "screenshot_sha256": {
+    "emery_01_palettes.gif": "2d251df7c98a99c83c2b2bf7012bca4421cc846651185d192e39f75609519b20",
+    "emery_02_palette.png": "95c0a52237eb77d47027dbb8686c9a83059416cf3faae9cf19e43bd8a1f7d7ff",
+    "emery_03_palette.png": "b680d10c7745d33b211fb5b41cfae7b0b976c30f14afd15b6361467536406c32",
+    "chalk_01_round.png": "db8c33b06fe0d4510ebef66230f4938a7493a780253caf8cadac6bc259f60438",
+    "chalk_02_round.png": "a44fbffe8c668ea3d286510ea9375094ddad00c9e88d47af0d12defeb7af2359",
+    "gabbro_01_round.png": "b7f3d3db86ed103efcc245248b9aeddc406520e073bada3f0dd90b78a7a98f17",
+    "gabbro_02_round.png": "9be782809b90e913dbd42507ffdd95fe3043f3b33a6c5c2b414cb9e3479a0487"
+  },
+  "release_notes": "Native layouts for original Time Round (180x180) and Round 2 (260x260). Preserves the Time 2 design and existing settings."
+}

@@ -1,0 +1,320 @@
+[
+  {
+    "case": "default",
+    "settings": {
+      "TimeFormat": 2,
+      "Palette": 0,
+      "DateFormat": 1,
+      "ShowSeconds": 1,
+      "ShowBattery": 1,
+      "DigitalTime": 0,
+      "Font": 0,
+      "Layout": 0,
+      "LeftDial": 0,
+      "WeatherUnits": 0,
+      "11000": 10,
+      "11001": 8,
+      "11002": 30,
+      "11004": 82,
+      "11013": 0
+    },
+    "peak": 255
+  },
+  {
+    "case": "midnight",
+    "settings": {
+      "TimeFormat": 2,
+      "Palette": 0,
+      "DateFormat": 1,
+      "ShowSeconds": 1,
+      "ShowBattery": 1,
+      "DigitalTime": 0,
+      "Font": 0,
+      "Layout": 0,
+      "LeftDial": 0,
+      "WeatherUnits": 0,
+      "11000": 0,
+      "11001": 0,
+      "11002": 30,
+      "11004": 82,
+      "11013": 0
+    },
+    "peak": 255
+  },
+  {
+    "case": "late",
+    "settings": {
+      "TimeFormat": 2,
+      "Palette": 0,
+      "DateFormat": 1,
+      "ShowSeconds": 1,
+      "ShowBattery": 1,
+      "DigitalTime": 0,
+      "Font": 0,
+      "Layout": 0,
+      "LeftDial": 0,
+      "WeatherUnits": 0,
+      "11000": 23,
+      "11001": 59,
+      "11002": 30,
+      "11004": 82,
+      "11013": 0
+    },
+    "peak": 255
+  },
+  {
+    "case": "twelve-hour",
+    "settings": {
+      "TimeFormat": 1,
+      "Palette": 0,
+      "DateFormat": 1,
+      "ShowSeconds": 1,
+      "ShowBattery": 1,
+      "DigitalTime": 0,
+      "Font": 0,
+      "Layout": 0,
+      "LeftDial": 0,
+      "WeatherUnits": 0,
+      "11000": 23,
+      "11001": 59,
+      "11002": 30,
+      "11004": 82,
+      "11013": 0
+    },
+    "peak": 255
+  },
+  {
+    "case": "date-iso",
+    "settings": {
+      "TimeFormat": 2,
+      "Palette": 0,
+      "DateFormat": 2,
+      "ShowSeconds": 1,
+      "ShowBattery": 1,
+      "DigitalTime": 0,
+      "Font": 0,
+      "Layout": 0,
+      "LeftDial": 0,
+      "WeatherUnits": 0,
+      "11000": 10,
+      "11001": 8,
+      "11002": 30,
+      "11004": 82,
+      "11013": 0
+    },
+    "peak": 255
+  },
+  {
+    "case": "date-eu",
+    "settings": {
+      "TimeFormat": 2,
+      "Palette": 0,
+      "DateFormat": 4,
+      "ShowSeconds": 1,
+      "ShowBattery": 1,
+      "DigitalTime": 0,
+      "Font": 0,
+      "Layout": 0,
+      "LeftDial": 0,
+      "WeatherUnits": 0,
+      "11000": 10,
+      "11001": 8,
+      "11002": 30,
+      "11004": 82,
+      "11013": 0
+    },
+    "peak": 255
+  },
+  {
+    "case": "seconds-off",
+    "settings": {
+      "TimeFormat": 2,
+      "Palette": 0,
+      "DateFormat": 1,
+      "ShowSeconds": 0,
+      "ShowBattery": 1,
+      "DigitalTime": 0,
+      "Font": 0,
+      "Layout": 0,
+      "LeftDial": 0,
+      "WeatherUnits": 0,
+      "11000": 10,
+      "11001": 8,
+      "11002": 30,
+      "11004": 82,
+      "11013": 0
+    },
+    "peak": 255
+  },
+  {
+    "case": "palette-1",
+    "settings": {
+      "TimeFormat": 2,
+      "Palette": 1,
+      "DateFormat": 1,
+      "ShowSeconds": 1,
+      "ShowBattery": 1,
+      "DigitalTime": 0,
+      "Font": 0,
+      "Layout": 0,
+      "LeftDial": 0,
+      "WeatherUnits": 0,
+      "11000": 10,
+      "11001": 8,
+      "11002": 30,
+      "11004": 82,
+      "11013": 0
+    },
+    "peak": 170
+  },
+  {
+    "case": "custom",
+    "settings": {
+      "TimeFormat": 2,
+      "Palette": 6,
+      "DateFormat": 1,
+      "ShowSeconds": 1,
+      "ShowBattery": 1,
+      "DigitalTime": 0,
+      "Font": 0,
+      "Layout": 0,
+      "LeftDial": 0,
+      "WeatherUnits": 0,
+      "11000": 10,
+      "11001": 8,
+      "11002": 30,
+      "11004": 82,
+      "11013": 0,
+      "Background": 85,
+      "Foreground": 16777215,
+      "Accent": 16733610
+    },
+    "peak": 255
+  },
+  {
+    "case": "battery-full",
+    "settings": {
+      "TimeFormat": 2,
+      "Palette": 0,
+      "DateFormat": 1,
+      "ShowSeconds": 1,
+      "ShowBattery": 1,
+      "DigitalTime": 0,
+      "Font": 0,
+      "Layout": 0,
+      "LeftDial": 0,
+      "WeatherUnits": 0,
+      "11000": 10,
+      "11001": 8,
+      "11002": 30,
+      "11004": 100,
+      "11013": 0
+    },
+    "peak": 255
+  },
+  {
+    "case": "quarter",
+    "settings": {
+      "TimeFormat": 2,
+      "Palette": 0,
+      "DateFormat": 1,
+      "ShowSeconds": 1,
+      "ShowBattery": 1,
+      "DigitalTime": 0,
+      "Font": 0,
+      "Layout": 0,
+      "LeftDial": 0,
+      "WeatherUnits": 0,
+      "11000": 3,
+      "11001": 15,
+      "11002": 30,
+      "11004": 82,
+      "11013": 0
+    },
+    "peak": 255
+  },
+  {
+    "case": "half",
+    "settings": {
+      "TimeFormat": 2,
+      "Palette": 0,
+      "DateFormat": 1,
+      "ShowSeconds": 1,
+      "ShowBattery": 1,
+      "DigitalTime": 0,
+      "Font": 0,
+      "Layout": 0,
+      "LeftDial": 0,
+      "WeatherUnits": 0,
+      "11000": 6,
+      "11001": 30,
+      "11002": 30,
+      "11004": 82,
+      "11013": 0
+    },
+    "peak": 255
+  },
+  {
+    "case": "crossing",
+    "settings": {
+      "TimeFormat": 2,
+      "Palette": 0,
+      "DateFormat": 1,
+      "ShowSeconds": 1,
+      "ShowBattery": 1,
+      "DigitalTime": 0,
+      "Font": 0,
+      "Layout": 0,
+      "LeftDial": 0,
+      "WeatherUnits": 0,
+      "11000": 9,
+      "11001": 45,
+      "11002": 30,
+      "11004": 82,
+      "11013": 0
+    },
+    "peak": 255
+  },
+  {
+    "case": "footer",
+    "settings": {
+      "TimeFormat": 2,
+      "Palette": 0,
+      "DateFormat": 2,
+      "ShowSeconds": 1,
+      "ShowBattery": 1,
+      "DigitalTime": 1,
+      "Font": 0,
+      "Layout": 0,
+      "LeftDial": 0,
+      "WeatherUnits": 0,
+      "11000": 10,
+      "11001": 8,
+      "11002": 30,
+      "11004": 82,
+      "11013": 0
+    },
+    "peak": 255
+  },
+  {
+    "case": "footer-twelve",
+    "settings": {
+      "TimeFormat": 1,
+      "Palette": 0,
+      "DateFormat": 2,
+      "ShowSeconds": 1,
+      "ShowBattery": 1,
+      "DigitalTime": 1,
+      "Font": 0,
+      "Layout": 0,
+      "LeftDial": 0,
+      "WeatherUnits": 0,
+      "11000": 10,
+      "11001": 8,
+      "11002": 30,
+      "11004": 100,
+      "11013": 0
+    },
+    "peak": 255
+  }
+]

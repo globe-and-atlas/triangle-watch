@@ -1,0 +1,13 @@
+A sculpted triangular dial with slim hands and light batons.
+
+Optional seconds hand, digital time, date, and battery percentage.
+
+Make it yours:
+- Six color palettes.
+- Custom background, text, and accent colors.
+- Watch default, 12-hour, or 24-hour main time.
+- Optional date, with ISO, US, or European numeric formats.
+
+The animated preview cycles through the palettes. Your selected colors stay steady on the watch.
+
+Native layouts for Pebble Time 2, the original Time Round, and Round 2.
